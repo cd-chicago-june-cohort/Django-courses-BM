@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.add_course {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: red;
+}
+
+.course-list {
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.button {
+    text-align: center;
+    margin-bottom: 20px;
+}
